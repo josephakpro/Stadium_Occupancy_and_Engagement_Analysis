@@ -1,4 +1,5 @@
-# Stadium Occupancy & Engagement Analysis (French 1st Division 2025/26)
+# Stadium Occupancy & Engagement Analysis 
+(French 1st Division 2025/26)
 
 ## Table of Contents
 
