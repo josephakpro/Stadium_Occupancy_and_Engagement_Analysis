@@ -1,4 +1,4 @@
-# French First Division Attendance Analysis (2025/26 Season)
+# Stadium Occupancy & Engagement Analysis (French 1st Division 2025/26)
 
 ## Table of Contents
 
